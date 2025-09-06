@@ -13,32 +13,31 @@ A simple Python calculator that performs basic arithmetic operations such as add
    python --version
 Clone this repository:
 
-bash
 Copy code
 git clone https://github.com/Karanjaian/Python-projects.git
 Navigate to the project directory:
 
-bash
 Copy code
 cd Python-projects
 Run the script:
 
-bash
 Copy code
 python calculator.py
-Example Output
-mathematica
+
+**Example Output**
+
 Copy code
-Enter an operator (+ - * /): +
-Enter the 1st number: 10
-Enter the 2nd number: 5
-The result of 10.0 + 5.0 = 15.0
-Future Improvements
-Add GUI support using Tkinter or PyQt.
+- **Enter an operator (+ - * /):** +
+-**Enter the 1st number:** 10
+- **Enter the 2nd number:** 5
+- **The result of 10.0 + 5.0 =** 15.0
 
-Implement advanced operations (exponent, modulus, etc.).
+## Future Improvements
+- Add GUI support using Tkinter or PyQt.
 
-Add unit tests.
+- Implement advanced operations (exponent, modulus, etc.).
 
-License
+- Add unit tests.
+
+## License
 This project is open source and available under the MIT License
