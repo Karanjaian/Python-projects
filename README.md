@@ -1,1 +1,1 @@
-![My Image](https://github.com/Karanjaian/Python-projects/blob/main/Wallpaper Python iPhone.jpeg?raw=true)
+![My Image](https://raw.githubusercontent.com/Karanjaian/Python-projects/main/Wallpaper%20Python%20iPhone.jpeg)
